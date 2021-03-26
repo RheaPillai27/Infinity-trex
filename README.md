@@ -1,1 +1,1 @@
-# Infinity-trex
+# Trex
